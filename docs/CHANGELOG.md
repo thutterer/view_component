@@ -9,6 +9,10 @@ title: Changelog
 
 ## main
 
+* Add missing config options to `config.view_component`.
+
+    *Simon Fish*
+
 ## 2.56.1
 
 * Rename private accessor `rendered_component` to `rendered_content`.
